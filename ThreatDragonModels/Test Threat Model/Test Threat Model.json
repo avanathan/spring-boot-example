@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "aavanathan",
+    "description": "TEst"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "aavanathan"
+  }
+}
